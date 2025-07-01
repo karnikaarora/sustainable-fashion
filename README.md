@@ -15,23 +15,15 @@ The project doesn't use any frameworks or databases — it’s a pure frontend t
 ## 🌐 Live Demo
 
 🔗 [View the Website](https://movie-website-blue-phi.vercel.app)  
-(Replace this with your correct link if needed)
+*(Replace this with your correct link if needed)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript (Vanilla)
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif" alt="Website Preview">
-</p>
 
 ---
 
@@ -39,4 +31,3 @@ The project doesn't use any frameworks or databases — it’s a pure frontend t
 
 Made with 💖 by **Karnika Arora**  
 GitHub: [@karnikaarora](https://github.com/karnikaarora)
-
