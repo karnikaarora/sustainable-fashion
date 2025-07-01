@@ -14,8 +14,7 @@ The project doesn't use any frameworks or databases — it’s a pure frontend t
 
 ## 🌐 Live Demo
 
-🔗 [View the Website](https://movie-website-blue-phi.vercel.app)  
-*(Replace this with your correct link if needed)*
+🔗 [View the Website](https://sustainable-fashion-nu.vercel.app/)  
 
 ---
 
@@ -23,11 +22,7 @@ The project doesn't use any frameworks or databases — it’s a pure frontend t
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
-## 🙋‍♀️ Developed by
-
-Made with 💖 by **Karnika Arora**  
-GitHub: [@karnikaarora](https://github.com/karnikaarora)
