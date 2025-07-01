@@ -1,26 +1,42 @@
-<h1 align = "center">Merlin Fashion🛒</h1>
+<h1 align="center">Merlin Fashion 🛒</h1>
 
+<p align="center">A stylish, responsive fashion website to showcase a modern wardrobe collection. 🛍️</p>
 
-<p align="center">Refresh Your Wardrobe!🛍️ 
- <p align="center">
-With a passion for fashion here's my very own custom website relating to it.💃
- </p>
- 
- 
- <p align="center">
- The template is for the Online Clothing Fashion which includes trending wardrobe collection. The website is made from scratch 🥳 and doesn't include any readymade code.
-Merlin Fashion doesn't include anything related to database, it is just a HTML, CSS and JS template. Though you can find some familiar images used in the website taken from various sources, but the purpose is to only make it more beautiful.🖤
+---
 
- </p>
+## ✨ About
 
-  <p align="center">
-    And that's how it looks🤩
- </p>
- <p align="center">
- <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
-  </p>
- <p align="center">
- Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
+Merlin Fashion is a front-end clothing website that presents a vibrant fashion collection with smooth UI and interactive visuals. I customized and enhanced the design using **HTML**, **CSS**, and **JavaScript**, focusing on a clean layout, better styling, and an engaging user experience.
+
+The project doesn't use any frameworks or databases — it’s a pure frontend template that reflects a minimalist, modern take on e-commerce fashion sites.
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View the Website](https://movie-website-blue-phi.vercel.app)  
+(Replace this with your correct link if needed)
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif" alt="Website Preview">
 </p>
-"# project-project-1-" 
+
+---
+
+## 🙋‍♀️ Developed by
+
+Made with 💖 by **Karnika Arora**  
+GitHub: [@karnikaarora](https://github.com/karnikaarora)
+
