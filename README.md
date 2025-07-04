@@ -20,7 +20,7 @@ The project doesn't use any frameworks or databases — it’s a pure frontend t
 
 ## 🛠️ Tech Stack
 
-- HTML5  
+- HTML
 - CSS3  
 - JavaScript 
 
